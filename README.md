@@ -1,4 +1,5 @@
 # myDemo
 My first Git Repository 
 <br>
-Author - Nikitha 
+Author - Nikitha (just git hub demo)
+
